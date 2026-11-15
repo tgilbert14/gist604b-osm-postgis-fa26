@@ -47,3 +47,6 @@ FROM
     county_metrics
 ORDER BY
     rail_density_km_per_sq_km DESC;
+
+-- usng with again to sum up areas firs
+-- then look at it by country name

@@ -101,3 +101,5 @@ LEFT JOIN
     restaurant_count AS rc ON c.county_name = rc.county_name
 ORDER BY
     rail_density_km_per_sq_km DESC;
+
+-- merging a bunch of tables and aggregating results
