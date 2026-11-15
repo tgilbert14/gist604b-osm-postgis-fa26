@@ -16,3 +16,7 @@ FROM
     pois
 WHERE
     fclass = 'restaurant';
+
+-- shows geoms for resturants
+--SELECT fclass
+--FROM pois;
