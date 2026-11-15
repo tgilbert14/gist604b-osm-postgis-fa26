@@ -31,3 +31,5 @@ GROUP BY
     aa.name, aa.geom
 ORDER BY
     park_area_sq_km DESC;
+
+-- adding up in square km by park (fclass)

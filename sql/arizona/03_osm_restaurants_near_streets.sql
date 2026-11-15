@@ -45,3 +45,6 @@ HAVING
     COUNT(DISTINCT r.geom) > 10
 ORDER BY
     nearby_restaurant_count DESC;
+
+-- using 'with' to look at only resturants 
+-- then joined it to roads on geography
